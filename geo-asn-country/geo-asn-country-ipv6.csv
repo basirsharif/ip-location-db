@@ -4365,8 +4365,11 @@
 2001:df0:1300::,2001:df0:1300:ffff:ffff:ffff:ffff:ffff,AU
 2001:df0:1340::,2001:df0:1340:ffff:ffff:ffff:ffff:ffff,ID
 2001:df0:1380::,2001:df0:1380:ffff:ffff:ffff:ffff:ffff,VN
+2001:df0:13c0::,2001:df0:13c0:ffff:ffff:ffff:ffff:ffff,PH
 2001:df0:1400::,2001:df0:1400:ffff:ffff:ffff:ffff:ffff,SG
+2001:df0:1440::,2001:df0:1440:ffff:ffff:ffff:ffff:ffff,PK
 2001:df0:1480::,2001:df0:1480:ffff:ffff:ffff:ffff:ffff,IN
+2001:df0:14c0::,2001:df0:14c0:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:1500::,2001:df0:1500:ffff:ffff:ffff:ffff:ffff,TH
 2001:df0:1580::,2001:df0:1580:ffff:ffff:ffff:ffff:ffff,TH
 2001:df0:1600::,2001:df0:1600:ffff:ffff:ffff:ffff:ffff,AU
@@ -5407,7 +5410,6 @@
 2001:df2:5080::,2001:df2:5080:ffff:ffff:ffff:ffff:ffff,IN
 2001:df2:5100::,2001:df2:5100:ffff:ffff:ffff:ffff:ffff,HK
 2001:df2:5180::,2001:df2:5180:ffff:ffff:ffff:ffff:ffff,ID
-2001:df2:5200::,2001:df2:5200:ffff:ffff:ffff:ffff:ffff,CN
 2001:df2:5280::,2001:df2:5280:ffff:ffff:ffff:ffff:ffff,BD
 2001:df2:5300::,2001:df2:5300:ffff:ffff:ffff:ffff:ffff,AU
 2001:df2:5380::,2001:df2:5380:ffff:ffff:ffff:ffff:ffff,HK
@@ -9168,8 +9170,11 @@
 2400:34c0::,2400:34c0:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:34e0::,2400:34e0:ffff:ffff:ffff:ffff:ffff:ffff,PK
 2400:3500::,2400:3500:ffff:ffff:ffff:ffff:ffff:ffff,TV
+2400:3520::,2400:3520:ffff:ffff:ffff:ffff:ffff:ffff,HK
 2400:3540::,2400:3540:ffff:ffff:ffff:ffff:ffff:ffff,CN
+2400:3560::,2400:3560:ffff:ffff:ffff:ffff:ffff:ffff,IN
 2400:3580::,2400:3580:ffff:ffff:ffff:ffff:ffff:ffff,ID
+2400:35a0::,2400:35a0:ffff:ffff:ffff:ffff:ffff:ffff,IN
 2400:35c0::,2400:35c0:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:3600::,2400:3600:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:3640::,2400:3640:ffff:ffff:ffff:ffff:ffff:ffff,CN
@@ -14977,7 +14982,6 @@
 2406:8b00::,2406:8b00:ffff:ffff:ffff:ffff:ffff:ffff,MY
 2406:8b40::,2406:8b40:ffff:ffff:ffff:ffff:ffff:ffff,AU
 2406:8b80::,2406:8b80:ffff:ffff:ffff:ffff:ffff:ffff,CN
-2406:8bc0::,2406:8bc0:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2406:8c00::,2406:8c00:ffff:ffff:ffff:ffff:ffff:ffff,JP
 2406:8c40::,2406:8c40:ffff:ffff:ffff:ffff:ffff:ffff,IN
 2406:8c80::,2406:8c80:ffff:ffff:ffff:ffff:ffff:ffff,CN
